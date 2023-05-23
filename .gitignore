@@ -1,0 +1,30 @@
+# Ignore specific files
+*css/bootstrap*
+*js/bootstrap*
+
+# Ignore directories
+node_modules/
+dist/
+
+# Ignore files generated during development or build processes
+*.log
+*.tmp
+*.cache
+*.css.map
+
+# Exclude sensitive or personal configuration files
+config.js
+credentials.json
+
+# Exclude IDE or editor-specific files
+.idea/
+.vscode/
+
+# Mac Store
+.DS_Store
+
+# Exclude personal documentation or notes
+README.md
+notes.txt
+
+# Exclude
