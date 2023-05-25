@@ -22,9 +22,3 @@ credentials.json
 
 # Mac Store
 .DS_Store
-
-# Exclude personal documentation or notes
-README.md
-notes.txt
-
-# Exclude
