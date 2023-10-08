@@ -239,7 +239,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg_11zon.jpeg") top center;
+  background: url("../img/hero-bg.png") center;
   background-size: cover;
 }
 
