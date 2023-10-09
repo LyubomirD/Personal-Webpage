@@ -553,6 +553,13 @@ section {
   color: #fff;
 }
 
+.contact .info .LinkedIn:hover i,
+.contact .info .GitHub:hover i,
+.contact .info .StackOverFlow:hover i {
+  background: #13653f;
+  color: #fff;
+}
+
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
